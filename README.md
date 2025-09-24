@@ -20,7 +20,7 @@ Chnaged the index od the dataframe into standard Python index with .reset_index(
 Plotted Historic stock prices over time.
 
 ## PROJECT STRUCTURE   
-[Stock Inisghts](https://github.com/leta199/Stock-Tracker-)‐/   
+[Stock Insights](https://github.com/leta199/Stock-Tracker-)‐/   
 ├── [Stock Tracker](https://github.com/leta199/Stock-Tracker-/blob/main/Stock_tracker.ipynb)/    
 └── [ReadME](https://github.com/leta199/Stock-Tracker-/blob/main/README.md)/
 
