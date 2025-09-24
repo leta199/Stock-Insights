@@ -3,7 +3,7 @@
 For this project I aim to utilise Python packages such as matplotlib in order to track prices of stcoks available  through the yfinance API wrapper. This allows me to crrate time-series graph showing historic prices of these stocks.
 
 ## HOW IT'S MADE   
-Languages used: Python verion (3.9.0 64-bit)   
+Languages used: Python verion 3.9.0 (64-bit)   
 Packages and modules: pandas, yfinance, matplotlib  
 IDE: Jupyter notebook, Visual Studio Code 
 
