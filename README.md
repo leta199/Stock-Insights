@@ -1,4 +1,4 @@
-# Stock-Insights-
+# Stock-Insights
 ## ABOUT THIS PROJECT   
 For this project I aim to utilise Python packages such as matplotlib in order to track prices of stcoks available  through the yfinance API wrapper. This allows me to crrate time-series graph showing historic prices of these stocks.
 
@@ -37,6 +37,8 @@ This would be very useful in the following fields:
 2) Corporate finance- understanding market sentiment.
 3) Goveernance and policy- allows regulatory bodies to keep track of the best performing companies and implement lasws to sterngthen industry.
 4) Economic research- in event studeis to realise how stock prices are affetced by news and events and predict how future evenst will affect stocks.
+
+Based on final project of the IBM Data Sceince Certification Module #5
 
 ## AUTHORS  
 [leta199](https://github.com/leta199)
