@@ -9,12 +9,12 @@ IDE: Jupyter notebook, Visual Studio Code
 
 ## METHODS AND TECHNIQUES 
 **Data extraction**   
-Utilised the .ticker() method to extract information on AMD stock data. 
-Used the .info method to get historic information on the stock as dictionary.   
-Turned history stock prices data into dataframe with .history().  
+Utilised the `.ticker()` method to extract information on AMD stock data. 
+Used the `.info` method to get historic information on the stock as dictionary.   
+Turned history stock prices data into dataframe with `.history()`.  
 
 **Data preparation**   
-Chnaged the index od the dataframe into standard Python index with .reset_index().  
+Changed the index od the dataframe into standard Python index with `.reset_index()`.  
 
 **Visualisation**  
 Plotted Historic stock prices over time.
