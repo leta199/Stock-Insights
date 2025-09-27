@@ -19,13 +19,13 @@ Changed the index od the dataframe into standard Python index with `.reset_index
 **Visualisation**  
 Plotted Historic stock prices over time.
 
+## KEY FINDINGS AND INSIGHTS  
+1) The price of AMD stock has grown exponentially in the last 10 years.
+
 ## PROJECT STRUCTURE   
 [Stock Insights](https://github.com/leta199/Stock-Tracker-)‐/   
 ├── [Stock Tracker](https://github.com/leta199/Stock-Tracker-/blob/main/Stock_tracker.ipynb)/    
 └── [ReadME](https://github.com/leta199/Stock-Tracker-/blob/main/README.md)/
-
-## KEY FINDINGS AND INSIGHTS  
-1) The price of AMD stock has grown exponentially in the last 10 years.
 
 ## FURTHER EXPANSIONS  
 I would  like to incorporate economic influences on stock prices like inflation and interest rates to investigate how these have affcted AMD and other companies. 
